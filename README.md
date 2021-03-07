@@ -19,5 +19,5 @@ Quedé en la lista para subir la visualización a Github, pero se puede ver en L
 ![Screenshot from 2021-03-06 13-09-23](https://user-images.githubusercontent.com/54119843/110226023-ce92c080-7eb0-11eb-9d5b-3d525485482d.png)
 
 
-data.csv: Datos para la visualización de Streamlit.
+data.csv: Datos para la visualización de Streamlit (los datos de la visualización resultaron diferentes a los del reporte).
 
